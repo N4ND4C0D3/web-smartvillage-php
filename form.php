@@ -1,3 +1,4 @@
+<!--Create By Natzzsec-->
 <?php
     $koneksi=mysqli_connect("localhost","root","","smartvillage");
     if (isset($_POST['simpan'])){
