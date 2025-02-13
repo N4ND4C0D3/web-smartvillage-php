@@ -1,4 +1,5 @@
 <!--Create By Natzzsec-->
+<!--Github: https://github.com/nantzzsec/ -->
 <?php
 $koneksi = mysqli_connect("localhost", "root", "", "smartvillage");
 if (isset($_POST['simpan'])) {
@@ -20,7 +21,6 @@ if (isset($_POST['simpan'])) {
 
 <!doctype html>
 <html lang="en-US">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
